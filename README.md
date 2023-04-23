@@ -9,7 +9,7 @@
 ## Objetivo
 * O objetivo do projeto é construir uma aplicação (no formato MVP), que seja capaz de estimular cognitiva e digitalmente, pessoas acometidas da doença de Alzhimer.
 
-* Nossa aplicação se chama "The Alzhma Project 2.0" e pretende ser uma plataforma capaz de estimular a cognição e a memória de pessoas acometidas pela Doença de Alzheimer, podendo ser também utilizada por  pessoas com outros distúrbios de memória e cognição. Sendo assim, nossa missão é tentar fornecer uma plataforma digital que promova melhorias tanto na questão fisiológica , como na emocional.
+* Nossa aplicação se chama "The Alzhma Project 2.0" e pretende ser uma plataforma capaz de estimular a cognição e a memória de pessoas acometidas pela Doença de Alzheimer, podendo ser também utilizada por  pessoas com outros distúrbios de memória e cognição, por meio de atividades lúdicas. Sendo assim, nossa missão é tentar fornecer uma plataforma digital lúdica que promova melhorias tanto na questão fisiológica ,como na emocional dos pacientes.
 
 
 ## Link para o projeto
