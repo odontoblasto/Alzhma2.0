@@ -13,7 +13,7 @@
 
 
 ## Link para o projeto
-https://github.com/odontoblasto/Alzhma2.0"
+https://github.com/odontoblasto/Alzhma2.0
 
 
 ## Link para o vídeo de demonstração da plataforma (Screencast)
