@@ -15,8 +15,8 @@
 * Sendo assim, nossa missão é tentar fornecer uma plataforma digital lúdica que promova melhorias tanto no quadro clínico ,como no emocional dos pacientes.
 
 ## Link para o projeto
-versão 1.0 - https://github.com/odontoblasto/ProjetoAlzhmareactjsmui
-versão 2.0 - https://github.com/odontoblasto/Alzhma2.0
+* versão 1.0 - https://github.com/odontoblasto/ProjetoAlzhmareactjsmui 
+* versão 2.0 - https://github.com/odontoblasto/Alzhma2.0
 
 ## Link para o vídeo de demonstração da plataforma (Screencast)
 FALTA
@@ -31,30 +31,30 @@ FALTA
 * Por fim, temos ciência que o primeiro passo foi dado, já que nosso projeto pode ser apresentado para os profissionais da Saúde que lidam com o público-alvo, e esses, contribuirão na composição final do projeto.
 Essa contribuição definirá quais métricas e "features" avançadas devem ser implementadas.
 
-#Mock-Up com Python
+## Mock-Up com Python
 
 * No início do projeto, utilizamos Python na construção de um Mock-Up. Essa etapa, permitiu a visualização de quais "caminhos" e estruturas de dados deveriam ser utilizadas - Array,Dict, Objects - já que só conhecíamos Python.
-# MVP - visão geral
+## MVP - visão geral
 
 * Decidimos utilizar o protocolo MERN - MongoDB, Express, ReactJS e Node.Js.
 
-#Front-End
+### Front-End
 
 * Como requisitado nas orientações de projeto da Disciplina, utilizamos HTML,CSS, JS e ReactJS como
 bases da programação. A curva de aprendizado foi de +- 6 meses, sendo o aluno Carlos Eduardo, o principal agente do Front-End.
 * Utilizamos também, BootStrap, ReactStrap, Material UI , como Libs para a construção do Layout das páginas e  Google Firebase como "3° Partie" na autenticação de usuário.
 
-#Back-End
+### Back-End
 
 * Utilizamos Node.Js como base do Back-End, sendo o aluno Leonardo Bezerra seu principal agente. A curva de aprendizado foi de +- 4 meses.
 * Integramos Front/Back com Axios, quando usamos a "Programação em Par"- Carlos e Leonardo.
 * A integração Back/BD, realizada com Cors e Express, foi realizada com "Programação em Par' - Leonardo e Pedro. 
 
-#BD
+### BD
 
 * Como BD, foi utilizado MongoDb Atlas pela familiaridade do aluno Pedro, DBA do projeto. Fomentamos a possibilidade de mudança para FireStoreDataBase, porém por medo de "Bug" no última etapa, adiamos esse debate para a versão 3.0. 
 
-## Ferramentas utilizadas no Projeto
+### Ferramentas utilizadas no Projeto
 * Javascript
 * React JS
 * Python
