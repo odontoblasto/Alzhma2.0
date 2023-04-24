@@ -15,24 +15,25 @@
 * Sendo assim, nossa missão é tentar fornecer uma plataforma digital lúdica que promova melhorias tanto no quadro clínico ,como no emocional dos pacientes.
 
 ## Link para o projeto
-https://github.com/odontoblasto/Alzhma2.0
+versão 1.0 - https://github.com/odontoblasto/ProjetoAlzhmareactjsmui
+versão 2.0 - https://github.com/odontoblasto/Alzhma2.0
 
 ## Link para o vídeo de demonstração da plataforma (Screencast)
 FALTA
 
 ## Explicações sobre decisões tomadas no decorrer do Projeto
 
-*Tivemos muita dificuldade na criação do Projeto porque de forma indevida, "pensamos mais na solução no que no problema", já que a versão 1.0 estava enviesada por ter sido criada para um único "cliente". O projeto foi baseado na história familiar de um dos nossos integrantes que criou uma solução pessoal.
-*Esse viés foi esclarecido pelo Professor na 1º reunião de alinhamento. Repensamos o problema e criamos uma versão,2.0, mais genérica e que serve de "backbone" para a criação de plataformas digitais lúdicas.
-*Essas plataformas podem ser utilizadas em diversos distúrbios de cognição, memória e aprendizado.Porém, o viés encurtou o tempo disponível, mesmo tendo criado um MVP funcional, muitas "features" básicas ainda não estão funcionais.
-*Mesmo utilizando o Github Co-Pilot, temos ciência que os Testes poderiam ter sido mais utilizados.Implementamos testes unitários dos elemntos HTML com Jest e Testing Library nativos, porém por falta de habilidade deixamos de utilizar o Cypress.
-*De qualquer forma, criamos no código-fonte "breadcrops" que indicam nossa vontade e a possibilidade de melhoria para a versão 3.0 quando esperamos realizar todas as "features" básicas pensadas.
+* Tivemos muita dificuldade na criação do Projeto porque de forma indevida, "pensamos mais na solução no que no problema", já que a versão 1.0 estava enviesada por ter sido criada para um único "cliente". O projeto foi baseado na história familiar de um dos nossos integrantes que criou uma solução pessoal.
+* Esse viés foi esclarecido pelo Professor na 1º reunião de alinhamento. Repensamos o problema e criamos uma versão,2.0, mais genérica e que serve de "backbone" para a criação de plataformas digitais lúdicas.
+* Essas plataformas podem ser utilizadas em diversos distúrbios de cognição, memória e aprendizado.Porém, o viés encurtou o tempo disponível, mesmo tendo criado um MVP funcional, muitas "features" básicas ainda não estão funcionais.
+* Mesmo utilizando o Github Co-Pilot, temos ciência que os Testes poderiam ter sido mais utilizados.Implementamos testes unitários dos elemntos HTML com Jest e Testing Library nativos, porém por falta de habilidade deixamos de utilizar o Cypress.
+* De qualquer forma, criamos no código-fonte "breadcrops" que indicam nossa vontade e a possibilidade de melhoria para a versão 3.0 quando esperamos realizar todas as "features" básicas pensadas.
 * Por fim, temos ciência que o primeiro passo foi dado, já que nosso projeto pode ser apresentado para os profissionais da Saúde que lidam com o público-alvo, e esses, contribuirão na composição final do projeto.
 Essa contribuição definirá quais métricas e "features" avançadas devem ser implementadas.
 
 #Mock-Up com Python
 
-*No início do projeto, utilizamos Python na construção de um Mock-Up. Essa etapa, permitiu a visualização de quais "caminhos" e estruturas de dados deveriam ser utilizadas - Array,Dict, Objects - já que só conhecíamos Python.
+* No início do projeto, utilizamos Python na construção de um Mock-Up. Essa etapa, permitiu a visualização de quais "caminhos" e estruturas de dados deveriam ser utilizadas - Array,Dict, Objects - já que só conhecíamos Python.
 # MVP - visão geral
 
 * Decidimos utilizar o protocolo MERN - MongoDB, Express, ReactJS e Node.Js.
@@ -41,7 +42,7 @@ Essa contribuição definirá quais métricas e "features" avançadas devem ser 
 
 * Como requisitado nas orientações de projeto da Disciplina, utilizamos HTML,CSS, JS e ReactJS como
 bases da programação. A curva de aprendizado foi de +- 6 meses, sendo o aluno Carlos Eduardo, o principal agente do Front-End.
-*Utilizamos também, BootStrap, ReactStrap, Material UI , como Libs para a construção do Layout das páginas e  Google Firebase como "3° Partie" na autenticação de usuário.
+* Utilizamos também, BootStrap, ReactStrap, Material UI , como Libs para a construção do Layout das páginas e  Google Firebase como "3° Partie" na autenticação de usuário.
 
 #Back-End
 
