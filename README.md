@@ -75,24 +75,15 @@ bases da programação. A curva de aprendizado foi de +- 6 meses, sendo o aluno 
 
 ## Screenshots
 ### Página Inicial
-![[pagina_inicial]](assets/adotaai-pagina_inicial.png)
-### Página de Bichinhos
-![[pagina_inicial]](assets/adotaai-pagina_bichinhos.png)
-### Página de Cadastro de Bichinhos
-![[pagina_inicial]](assets/adotaai-pagina_cadastro_bichinhos.png)
-### Página de Eventos
-![[pagina_inicial]](assets/adotaai-pagina_eventos.png)
-### Página de Cadastro de Eventos
-![[pagina_inicial]](assets/adotaai-pagina_cadastro_eventos.png)
+![[pagina_inicial]]
 ### Página de Login
-![[pagina_inicial]](assets/adotaai-pagina_login.png)
-### Página de Cadastro
-![[pagina_inicial]](assets/adotaai-pagina_cadastro.png)
+![[pagina_inicial]]
+### Página de Criação de Perguntas e Respostas 
+![[pagina_inicial]]
+### Página do Quiz
+![[pagina_inicial]]
+
 
 ## Referências utilizadas na elaboração do projeto
 * https://github.com/IF977/if977 (Repositório da cadeira de Engenharia de Software)
-* https://getbootstrap.com/docs/4.0/getting-started/introduction/ (Documentação Oficial do framework Bootstrap 4)
-* https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp (Série de tutoriais API NodeJS + Express + MongoDB, ministrada pela Rocketseat)
-* http://zetcode.com/javascript/axios/ (Tutorial de como usar o Axios com Javascript)
-* https://medium.com/@shalandy/deploy-git-subdirectory-to-heroku-ea05e95fce1f (Tutorial de como dar um deploy pelo Heroku a partir de um sub-repositório do GitHub)
-* https://www.cypress.io/ (Site Oficial do Framework Cypress)
+
