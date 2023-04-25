@@ -82,6 +82,6 @@ app.put("/update/:id", (req, res) => {
     .catch((err) => console.log(err));
 });
 
-app.listen(3001, function () {
+app.listen(80, function () {
   console.log("Express server is running");
 });
